@@ -1,0 +1,18 @@
+scheme: 'Custom Scheme'
+author: 'Your Name'
+base00: '000005' # background
+base01: '2F3344' # color1
+base02: '715D5F' # color2
+base03: '606F7F' # color3
+base04: '889BAE' # color4
+base05: 'EDEFF3' # foreground
+base06: 'AF9D9A' # color5
+base07: 'DDE0E5' # color7
+base08: '9B9CA0' # color8
+base09: '2F3344' # color9
+base0A: '715D5F' # color10
+base0B: '606F7F' # color11
+base0C: '889BAE' # color12
+base0D: 'AF9D9A' # color13
+base0E: 'CCD1DC' # color14
+base0F: 'DDE0E5' # color15

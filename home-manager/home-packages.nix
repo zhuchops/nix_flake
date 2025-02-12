@@ -34,7 +34,6 @@
     fuzzel
     flatpak
     git
-    git-graph
     gradle
     grimblast
     gamescope
